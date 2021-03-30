@@ -1,3 +1,4 @@
+[![Coverage Status](https://coveralls.io/repos/github/rafaelcbm/clean-auth-api/badge.svg)](https://coveralls.io/github/rafaelcbm/clean-auth-api)
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://opensource.org/)
@@ -8,7 +9,7 @@
 
 This API is based on the course of Rodrigo Manguinho (Mango) in Udemy.
 
-In this repo only the REST authentication feature is available.
+In this repo, only the REST authentication feature is available.
 
 #### [** Clean Architecture Course link **](https://www.udemy.com/course/tdd-com-mango/?referralCode=B53CE5CA2B9AFA5A6FA1)
 

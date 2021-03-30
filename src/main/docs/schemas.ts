@@ -2,7 +2,7 @@ import {
   accountSchema,
   loginParamsSchema,
   errorSchema,
-  signUpParamsSchema,
+  signUpParamsSchema
 } from './schemas/'
 
 export default {
